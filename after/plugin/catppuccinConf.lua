@@ -1,3 +1,4 @@
+-- no funciona checar despues
 catppuccinFunc = function()
     require("catppuccin").setup({
         flavour = "mocha", -- latte, frappe, macchiato, mocha
